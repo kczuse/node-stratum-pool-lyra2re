@@ -28,7 +28,7 @@
         "url": "https://github.com/CoinHashMe/node-stratum-pool-lyra2re.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/CoinHashMe/node-multi-hashing-lyra2re.git",
+        "multi-hashing": "git://github.com/CoinHashMe/node-multi-hashing-lyra2re.git#lyra2re",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
