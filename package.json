@@ -12,7 +12,7 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/zone117x/node-stratum-pool",
+    "homepage": "https://github.com/zone117x/node-stratum-pool-lyra2re",
     "bugs": {
         "url": "https://github.com/zone117x/node-stratum-pool/issues"
     },
@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zone117x/node-stratum-pool.git"
+        "url": "https://github.com/CoinHashMe/node-stratum-pool-lyra2re.git"
     },
     "dependencies": {
-        "multi-hashing": "sammy007/node-multi-hashing#lyra2re",
+        "multi-hashing": "CoinHashMe/node-multi-hashing-lyra2re",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
