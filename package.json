@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/CoinHashMe/node-stratum-pool-lyra2re",
+    "homepage": "https://github.com/kczuse/node-stratum-pool-lyra2re",
     "bugs": {
-        "url": "https://github.com/CoinHashMe/node-stratum-pool-lyra2re/issues"
+        "url": "https://github.com/kczuse/node-stratum-pool-lyra2re/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/CoinHashMe/node-stratum-pool-lyra2re.git"
+        "url": "https://github.com/kczuse/node-stratum-pool-lyra2re.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/CoinHashMe/node-multi-hashing-lyra2re.git#lyra2re",
+        "multi-hashing": "git://github.com/kczuse/node-multi-hashing-lyra2re.git#lyra2re",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
