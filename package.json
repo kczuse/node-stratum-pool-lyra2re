@@ -28,7 +28,7 @@
         "url": "https://github.com/kczuse/node-stratum-pool-lyra2re.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/kczuse/node-multi-hashing-lyra2re.git#lyra2re",
+        "multi-hashing": "git://github.com/kczuse/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
